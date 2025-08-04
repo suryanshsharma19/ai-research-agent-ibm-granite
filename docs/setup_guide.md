@@ -7,7 +7,7 @@
 
 ## Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-research-agent-ibm-granite.git
+git clone https://github.com/suryanshsharma19/ai-research-agent-ibm-granite.git
 cd ai-research-agent-ibm-granite
 ```
 
