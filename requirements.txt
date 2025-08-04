@@ -1,0 +1,10 @@
+ibm-watsonx-ai>=1.0.5
+ibm-watson>=7.0.1
+arxiv>=2.1.0
+PyPDF2>=3.0.1
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+langchain>=0.1.0
+jupyter>=1.0.0
+pandas>=1.5.0
+numpy>=1.24.0
