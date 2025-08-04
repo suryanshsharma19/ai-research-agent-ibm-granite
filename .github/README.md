@@ -47,13 +47,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📊 Project Metrics
-
-- **Stars**: [![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-research-agent-ibm-granite.svg)](https://github.com/yourusername/ai-research-agent-ibm-granite/stargazers)
-- **Forks**: [![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-research-agent-ibm-granite.svg)](https://github.com/yourusername/ai-research-agent-ibm-granite/network)
-- **Issues**: [![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-research-agent-ibm-granite.svg)](https://github.com/yourusername/ai-research-agent-ibm-granite/issues)
-- **License**: [![GitHub license](https://img.shields.io/github/license/yourusername/ai-research-agent-ibm-granite.svg)](https://github.com/yourusername/ai-research-agent-ibm-granite/blob/main/LICENSE)
-
 ## 🐛 Bug Reports
 
 If you find a bug, please create an issue with:
